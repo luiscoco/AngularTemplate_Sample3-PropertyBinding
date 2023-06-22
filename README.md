@@ -2,6 +2,8 @@
 
 https://angular.io/guide/property-binding
 
+https://stackblitz.com/~/github.com/luiscoco/AngularTemplate_Sample3-PropertyBinding
+
 In Angular, property binding is a mechanism that allows you to bind the value of a component property to an expression. It enables you to dynamically set or update the value of an HTML element property using a component's property.
 
 Property binding is denoted by square brackets ([]) surrounding the target property within the HTML template. The expression inside the brackets is evaluated, and its value is assigned to the specified property.
