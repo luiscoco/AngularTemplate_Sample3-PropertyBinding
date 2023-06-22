@@ -1,4 +1,6 @@
-# property-binding
+# Property Binding
+
+https://angular.io/guide/property-binding
 
 In Angular, property binding is a mechanism that allows you to bind the value of a component property to an expression. It enables you to dynamically set or update the value of an HTML element property using a component's property.
 
